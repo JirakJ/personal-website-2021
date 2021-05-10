@@ -1,5 +1,10 @@
 import React, { Suspense, lazy } from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import {
+  Redirect,
+  BrowserRouter,
+  Switch,
+  Route,
+} from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
 
@@ -24,6 +29,7 @@ const App = () => (
         <Route path="/projects" component={Projects} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
+        <Redirect to="/" />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
