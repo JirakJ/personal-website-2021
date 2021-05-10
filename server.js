@@ -15,14 +15,16 @@ app.use(express.static(path.join(__dirname, 'build')));
 app.use(secure);
 app.use(sslRedirect());
 
-// app.use(function(req, res, next) {
-//     if (req.headers.host.match(/^www/)) res.redirect('http://' + req.headers.host.replace(/^www\./, '') + req.url, 301);
-//     if (req.headers.host.match(/^http:/)) res.redirect('https://' + req.headers.host.replace(/^www\./, '') + req.url, 301);
-//     else next();
-// });
+app.get('*', function(req, res, next) {
+    if (req.headers.host.slice(0, 3) != 'www') {
+        res.redirect('http://www.' + req.headers.host + req.url, 301);
+    } else {
+        next();
+    }
+});
 
 app.use((req, res, next) => {
-    const hostname = req.hostname === 'www.jakubjirak.com' ? 'jakubjirak.com' : req.hostname;
+    const hostname = req.hostname !== 'www.jakubjirak.com' ? 'jakubjirak.com' : req.hostname;
 
     if (req.headers['x-forwarded-proto'] === 'http' || req.hostname === 'jakubjirak.com') {
         res.redirect(301, `https://${hostname}${req.url}`);
