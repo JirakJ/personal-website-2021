@@ -15,12 +15,12 @@ const skills = [
   {
     title: 'Swift',
     competency: 3,
-    category: ['Application Development', 'Mobile development', 'Languages'],
+    category: ['Application Development', 'Mobile Development', 'Languages'],
   },
   {
     title: 'SwiftUI',
     competency: 3,
-    category: ['Application Development', 'Mobile development', 'Languages'],
+    category: ['Application Development', 'Mobile Development', 'Languages'],
   },
   {
     title: 'React.js',
