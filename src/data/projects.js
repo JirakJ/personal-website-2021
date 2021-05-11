@@ -48,7 +48,7 @@ const data = [
     subtitle: 'Fullstack development',
     image: '/images/projects/remotedevs.eu.png',
     date: '2020-08-27',
-    link: 'https://hireme.cz/',
+    link: 'https://remotedevs.eu/',
     desc:
       '',
     techstack: [],
