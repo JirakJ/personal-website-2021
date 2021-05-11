@@ -10,6 +10,7 @@ const Cell = ({ data }) => (
         <h3><a href={data.link}>{data.title}</a></h3>
         <time className="published">{dayjs(data.date).format('MMMM, YYYY')} - {data.dateTo ? dayjs(data.dateTo).format('MMMM, YYYY') : 'Present'}</time>
       </header>
+      { data.image && <a href={data.link} className="image"><img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} /></a> }
       <div className={data.image ? 'description' : 'description-text'}>
         <p>{data.desc}</p>
         { data.techstack.length > 0 && <Techstack data={data} /> }
