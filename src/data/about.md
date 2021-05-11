@@ -16,7 +16,7 @@
 
 # I dream of
 
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- you not checking the commit history for earlier drafts of this file.
+- Always finding inspiration.
+- Enabling a brighter future.
+- Doing better.
+- You not checking the commit history for earlier drafts of this file.
