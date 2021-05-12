@@ -9,7 +9,7 @@ const data = [
     desc:
         'Developing automation system based on client requirements and needs (Fullstack, Automation testing, DevOps)\n'
         + '\n'
-        + 'Developed from greenfield. Custom orchestration system with full paralelization and scalability. Reporting system for management. Integration with JIRA (automated defects reports). Custom solution for testing SOAP WS.\n',
+        + 'Developed from scratch. Custom orchestration system with full paralelization and scalability. Reporting system for management. Integration with JIRA (automated defects reports). Custom solution for testing SOAP WS.\n',
     techstack: ['Java', 'Spring Boot', 'Rest Assured', 'TestNG', 'Selenium', 'lombok', 'log4j', 'MongoDB', 'React.js', 'Redux', 'Node.js', 'powershell'],
   },
   {
@@ -50,7 +50,7 @@ const data = [
     date: '2020-08-27',
     link: 'https://remotedevs.eu/',
     desc:
-      '',
+      'Team based project',
     techstack: [],
   },
   {

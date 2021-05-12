@@ -8,7 +8,7 @@ const positions = [
       'Fullstack development',
       'Application development (JAVA, Python, Swift/ SwiftUI, C++...)',
       'Image and Video processing',
-      'Developing of automation framework with management systems from greenfield',
+      'Developing of automation framework with management systems from scratch',
       'frameworks and API development',
       'Projects: SberbankCZ, JakubJirak.com, Remotedevs.eu, PragueSB.cz, Aither.cz, ZednictviHB.cz, Tom-Builder.cz, Hireme.cz ...',
     ],
