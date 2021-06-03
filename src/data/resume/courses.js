@@ -474,7 +474,7 @@ const courses = [
     link: 'https://www.vutbr.cz/studis/student.phtml?sn=predmet_detail&apid=120351',
     university: 'Brno University of Technology',
     category: ['Other'],
-  },,
+  },
   {
     title: 'Modern React with Redux',
     number: 'Modern React with Redux',
