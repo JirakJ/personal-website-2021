@@ -5,12 +5,12 @@ const skills = [
   {
     title: 'Javascript',
     competency: 4,
-    category: ['Automation', 'Web Development', 'Languages', 'Javascript'],
+    category: ['Automation', 'Frontend', 'Languages', 'Javascript'],
   },
   {
     title: 'Node.JS',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Frontend', 'Javascript'],
   },
   {
     title: 'Swift',
@@ -25,47 +25,47 @@ const skills = [
   {
     title: 'React.js',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Frontend', 'Javascript'],
   },
   {
     title: 'Redux',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Frontend', 'Javascript'],
   },
   {
     title: 'Bootstrap',
     competency: 3,
-    category: ['Web Development', 'Fullstack'],
+    category: ['Frontend', 'Fullstack'],
   },
   {
     title: 'SoapUI',
     competency: 3,
-    category: ['Web Development', 'Automation', 'QA', 'Application Development'],
+    category: ['Frontend', 'Automation', 'QA', 'Application Development'],
   },
   {
     title: 'REST API',
     competency: 3,
-    category: ['Web Development', 'Automation', 'QA', 'Application Development'],
+    category: ['Frontend', 'Automation', 'QA', 'Application Development'],
   },
   {
     title: 'Material UI',
     competency: 3,
-    category: ['Web Development', 'Fullstack'],
+    category: ['Frontend', 'Fullstack'],
   },
   {
     title: 'Vue.js',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Frontend', 'Javascript'],
   },
   {
     title: 'Next.js',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Frontend', 'Javascript'],
   },
   {
     title: 'Nuxt.js',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Frontend', 'Javascript'],
   },
   {
     title: 'Bash',
@@ -80,17 +80,17 @@ const skills = [
   {
     title: 'Heroku',
     competency: 2,
-    category: ['Web Development', 'Tools'],
+    category: ['Frontend', 'Tools'],
   },
   {
     title: 'MongoDB',
     competency: 3,
-    category: ['Web Development', 'Databases'],
+    category: ['Frontend', 'Databases'],
   },
   {
     title: 'PostgreSQL',
     competency: 3,
-    category: ['Web Development', 'Databases'],
+    category: ['Frontend', 'Databases'],
   },
   {
     title: 'Data Mining',
@@ -100,12 +100,12 @@ const skills = [
   {
     title: 'Express.JS',
     competency: 2,
-    category: ['Web Development', 'Javascript'],
+    category: ['Frontend', 'Javascript'],
   },
   {
     title: 'D3',
     competency: 2,
-    category: ['Web Development', 'Javascript'],
+    category: ['Frontend', 'Javascript'],
   },
   {
     title: 'Git/Mercurial',
@@ -115,12 +115,12 @@ const skills = [
   {
     title: 'Typescript',
     competency: 2,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Frontend', 'Languages', 'Javascript'],
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
     competency: 3,
-    category: ['Web Development', 'Languages'],
+    category: ['Frontend', 'Languages'],
   },
   {
     title: 'Java',
@@ -155,12 +155,12 @@ const skills = [
   {
     title: 'lodash',
     competency: 5,
-    category: ['Web Development'],
+    category: ['Frontend'],
   },
   {
     title: 'axios',
     competency: 5,
-    category: ['Web Development'],
+    category: ['Frontend'],
   },
   {
     title: 'log4j',

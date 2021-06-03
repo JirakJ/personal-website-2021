@@ -487,7 +487,7 @@ const courses = [
     number: 'Modern React with Redux',
     link: 'https://www.udemy.com/certificate/UC-724f090f-73fc-4689-8a27-cd5b2b138171/',
     university: 'Udemy',
-    category: ['Web Development'],
+    category: ['Frontend', 'Fullstack'],
   },
 ].map((course) => ({ ...course, category: course.category.sort() }));
 
