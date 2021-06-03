@@ -1,5 +1,12 @@
 const courses = [
   {
+    title: 'Advanced Selenium testing framework with Java',
+    number: 'UC-4952c307-4f04-4726-a563-0c59a4f9c405',
+    link: 'https://www.udemy.com/certificate/UC-4952c307-4f04-4726-a563-0c59a4f9c405/',
+    university: 'Udemy',
+    category: ['Automation'],
+  },
+  {
     title: 'Nuxt.js - Vue.js on Steroids',
     number: 'Credential ID UC-9eec60de-2cd7-450e-91b0-b434785c91db',
     link: 'https://www.udemy.com/certificate/UC-9eec60de-2cd7-450e-91b0-b434785c91db/',
