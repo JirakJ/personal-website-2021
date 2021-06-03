@@ -15,7 +15,7 @@ const handleProps = ({
   skills,
 });
 
-class Skills extends Component {
+class SkillsAndCourses extends Component {
   constructor(props) {
     super(props);
     this.state = handleProps(
@@ -139,7 +139,7 @@ class Skills extends Component {
   }
 }
 
-Skills.propTypes = {
+SkillsAndCourses.propTypes = {
   skills: PropTypes.arrayOf(PropTypes.shape({
     title: PropTypes.string,
     competency: PropTypes.number,
@@ -151,9 +151,9 @@ Skills.propTypes = {
   })),
 };
 
-Skills.defaultProps = {
+SkillsAndCourses.defaultProps = {
   categories: [],
   skills: [],
 };
 
-export default Skills;
+export default SkillsAndCourses;
