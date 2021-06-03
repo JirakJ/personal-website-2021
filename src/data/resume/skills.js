@@ -153,6 +153,16 @@ const skills = [
     category: ['Java'],
   },
   {
+    title: 'lodash',
+    competency: 5,
+    category: ['Web Development'],
+  },
+  {
+    title: 'axios',
+    competency: 5,
+    category: ['Web Development'],
+  },
+  {
     title: 'log4j',
     competency: 5,
     category: ['Java'],

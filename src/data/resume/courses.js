@@ -474,6 +474,13 @@ const courses = [
     link: 'https://www.vutbr.cz/studis/student.phtml?sn=predmet_detail&apid=120351',
     university: 'Brno University of Technology',
     category: ['Other'],
+  },,
+  {
+    title: 'Modern React with Redux',
+    number: 'Modern React with Redux',
+    link: 'https://www.udemy.com/certificate/UC-724f090f-73fc-4689-8a27-cd5b2b138171/',
+    university: 'Udemy',
+    category: ['Web Development'],
   },
 ].map((course) => ({ ...course, category: course.category.sort() }));
 
