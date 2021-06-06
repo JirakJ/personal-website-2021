@@ -752,6 +752,13 @@ const skills = [
     university: 'Udemy',
     category: ['Frontend', 'Fullstack', 'JavaScript'],
   },
+  {
+    title: 'JavaScript: The Advanced Concepts (2021)',
+    number: 'JavaScript: The Advanced Concepts (2021)',
+    link: 'https://www.udemy.com/certificate/UC-dabc370c-4884-4c0c-847b-64c6aae49e0c/',
+    university: 'Udemy',
+    category: ['Frontend', 'Fullstack', 'JavaScript'],
+  },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be == to the
