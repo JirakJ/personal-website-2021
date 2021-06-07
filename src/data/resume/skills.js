@@ -358,7 +358,7 @@ const skills = [
     number: 'Credential ID UC-I16B1DZV',
     link: 'https://www.udemy.com/certificate/UC-I16B1DZV/',
     university: 'Udemy',
-    category: ['Automation', 'Application development', 'Fullstack', 'Python'],
+    category: ['Automation', 'Application Development', 'Fullstack', 'Python'],
   },
   {
     title: 'WebServices/ REST API Testing Automation: via SoapUI',
@@ -386,7 +386,7 @@ const skills = [
     number: 'Credential ID UC-ROX9DO2U',
     link: 'https://www.udemy.com/certificate/UC-ROX9DO2U/',
     university: 'Udemy',
-    category: ['Application development', 'Other', 'Python'],
+    category: ['Application Development', 'Other', 'Python'],
   },
   {
     title: 'Complete Python programming Basics to Advance level',
@@ -400,7 +400,7 @@ const skills = [
     number: 'Credential ID UC-SLFWMS0U',
     link: 'https://www.udemy.com/certificate/UC-SLFWMS0U/',
     university: 'Udemy',
-    category: ['Application development', 'Fullstack'],
+    category: ['Application Development', 'Fullstack'],
   },
   {
     title: 'GIT - Master GIT Version Control System',
@@ -421,7 +421,7 @@ const skills = [
     number: 'Credential ID UC-ENG1PI78',
     link: 'https://www.udemy.com/certificate/UC-ENG1PI78/',
     university: 'Udemy',
-    category: ['Application development', 'Fullstack'],
+    category: ['Application Development', 'Fullstack'],
   },
   {
     title: 'Make video game in unity3D',
@@ -435,21 +435,21 @@ const skills = [
     number: 'Credential ID UC-MQUP597D',
     link: 'https://www.udemy.com/certificate/UC-MQUP597D/',
     university: 'Udemy',
-    category: ['Application development', 'Other', 'Python', 'Databases'],
+    category: ['Application Development', 'Other', 'Python', 'Databases'],
   },
   {
     title: 'Python 1200: Practice for Beginners',
     number: 'Credential ID UC-F09F7I32',
     link: 'https://www.udemy.com/certificate/UC-F09F7I32/',
     university: 'Udemy',
-    category: ['Application development', 'Fullstack', 'Automation', 'Python'],
+    category: ['Application Development', 'Fullstack', 'Automation', 'Python'],
   },
   {
     title: 'Python: Everything you need to know to become a developer',
     number: 'Credential ID UC-RS3DP401',
     link: 'https://www.udemy.com/certificate/UC-RS3DP401/',
     university: 'Udemy',
-    category: ['Application development', 'Fullstack', 'Automation', 'Python'],
+    category: ['Application Development', 'Fullstack', 'Automation', 'Python'],
   },
   {
     title: 'Responsive Admin Pages with Semantic UI',
