@@ -3,14 +3,14 @@
 
 const skills = [
   {
-    title: 'Javascript',
+    title: 'JavaScript',
     competency: 4,
-    category: ['Automation', 'Frontend', 'Languages', 'Javascript'],
+    category: ['Automation', 'Frontend', 'Languages', 'JavaScript'],
   },
   {
     title: 'Node.JS',
     competency: 3,
-    category: ['Frontend', 'Backend', 'Javascript'],
+    category: ['Frontend', 'Backend', 'JavaScript'],
   },
   {
     title: 'Swift',
@@ -25,12 +25,12 @@ const skills = [
   {
     title: 'React.js',
     competency: 3,
-    category: ['Frontend', 'Javascript'],
+    category: ['Frontend', 'JavaScript'],
   },
   {
     title: 'Redux',
     competency: 3,
-    category: ['Frontend', 'Javascript'],
+    category: ['Frontend', 'JavaScript'],
   },
   {
     title: 'Bootstrap',
@@ -55,17 +55,17 @@ const skills = [
   {
     title: 'Vue.js',
     competency: 3,
-    category: ['Frontend', 'Javascript'],
+    category: ['Frontend', 'JavaScript'],
   },
   {
     title: 'Next.js',
     competency: 3,
-    category: ['Frontend', 'Javascript'],
+    category: ['Frontend', 'JavaScript'],
   },
   {
     title: 'Nuxt.js',
     competency: 3,
-    category: ['Frontend', 'Javascript'],
+    category: ['Frontend', 'JavaScript'],
   },
   {
     title: 'Bash',
@@ -100,12 +100,12 @@ const skills = [
   {
     title: 'Express.JS',
     competency: 2,
-    category: ['Frontend', 'Javascript'],
+    category: ['Frontend', 'JavaScript'],
   },
   {
     title: 'D3',
     competency: 2,
-    category: ['Frontend', 'Javascript'],
+    category: ['Frontend', 'JavaScript'],
   },
   {
     title: 'Git/Mercurial',
@@ -115,7 +115,7 @@ const skills = [
   {
     title: 'Typescript',
     competency: 2,
-    category: ['Frontend', 'Languages', 'Javascript'],
+    category: ['Frontend', 'Languages', 'JavaScript'],
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
