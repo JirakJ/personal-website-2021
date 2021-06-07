@@ -40,7 +40,7 @@ const skills = [
   {
     title: 'SoapUI',
     competency: 3,
-    category: ['Frontend', 'Automation', 'QA', 'Application Development'],
+    category: ['Automation', 'QA', 'Application Development'],
   },
   {
     title: 'REST API',
@@ -79,6 +79,16 @@ const skills = [
   },
   {
     title: 'Heroku',
+    competency: 2,
+    category: ['Frontend', 'Tools'],
+  },
+  {
+    title: 'Vercel',
+    competency: 2,
+    category: ['Frontend', 'Tools'],
+  },
+  {
+    title: 'Netlify',
     competency: 2,
     category: ['Frontend', 'Tools'],
   },
