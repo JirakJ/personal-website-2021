@@ -125,7 +125,7 @@ const skills = [
   {
     title: 'Java',
     competency: 5,
-    category: ['Automation', 'Application Development', 'Languages', 'Java'],
+    category: ['Automation', 'Application Development', 'Backend', 'Languages', 'Java'],
   },
   {
     title: 'Spring Boot',
