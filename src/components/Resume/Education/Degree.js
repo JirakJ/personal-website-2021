@@ -17,11 +17,11 @@ Degree.propTypes = {
     link: PropTypes.string.isRequired,
     school: PropTypes.string.isRequired,
     year: PropTypes.number.isRequired,
-    finalThesis: {
+    finalThesis: PropTypes.shape({
       name: PropTypes.string.isRequired,
       link: PropTypes.string.isRequired,
       theseLink: PropTypes.string.isRequired,
-    },
+    }),
   }).isRequired,
 };
 
