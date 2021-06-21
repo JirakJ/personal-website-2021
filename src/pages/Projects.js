@@ -21,7 +21,7 @@ const Projects = () => (
       {data.map((project) => (
         <Cell
           data={project}
-          key={project.title}
+          key={`${project.title}${Math.random() * 1000}`}
         />
       ))}
     </article>
