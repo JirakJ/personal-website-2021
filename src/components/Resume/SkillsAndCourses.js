@@ -46,7 +46,7 @@ class SkillsAndCourses extends Component {
         <SkillBar
           categories={this.props.categories}
           data={skill}
-          key={skill.title}
+          key={`${skill.title}${Math.random() * 1000}`}
         />
       ));
   }
@@ -67,7 +67,7 @@ class SkillsAndCourses extends Component {
         <CourseBar
           category={this.props.categories}
           data={course}
-          key={course.title}
+          key={`${course.title}${Math.random() * 1000}`}
         />
       ));
   }
