@@ -772,12 +772,27 @@ const skills = [
   {
     title: 'nodemon',
     competency: 5,
-    category: ['JavaScript'],
+    category: ['JavaScript', 'Typescript'],
   },
   {
     title: 'concurrently',
     competency: 5,
-    category: ['JavaScript'],
+    category: ['JavaScript', 'Typescript'],
+  },
+  {
+    title: 'express.js',
+    competency: 5,
+    category: ['JavaScript', 'Typescript'],
+  },
+  {
+    title: 'body-parser',
+    competency: 5,
+    category: ['JavaScript', 'Typescript'],
+  },
+  {
+    title: 'reflect-metadata',
+    competency: 5,
+    category: ['Typescript'],
   },
   {
     title: 'Typescript: The Complete Developer\'s Guide',
