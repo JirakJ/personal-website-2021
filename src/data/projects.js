@@ -20,7 +20,7 @@ const data = [
     date: '2019-06-01',
     desc:
       'Website for conference.',
-    techstack: [],
+    techstack: ['JavaScript', 'React.js', 'HTML5', 'CSS3'],
   },
   {
     title: 'Aither',
@@ -32,7 +32,7 @@ const data = [
       'Preparing websites for journal of the Faculty of Arts of '
         + 'Palacký University in Olomouc and the Institute of Philosophy '
         + 'of the Academy of Sciences of the Czech Republic. In two language versions.',
-    techstack: [],
+    techstack: ['JavaScript', 'PHP -> custom WordPress template', 'CSS3', 'HTML5'],
   },
   {
     title: 'Hireme.cz',
@@ -41,7 +41,7 @@ const data = [
     link: 'https://hireme.cz/',
     desc:
       'Old personal portfolio.',
-    techstack: [],
+    techstack: ['React.js', 'JavaScript'],
   },
   {
     title: 'Remotedevs.eu',
@@ -51,7 +51,7 @@ const data = [
     link: 'https://remotedevs.eu/',
     desc:
       'Team based project',
-    techstack: [],
+    techstack: ['React.js', 'JavaScript'],
   },
   {
     title: 'Caravella.cz',
