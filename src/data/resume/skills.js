@@ -5,37 +5,37 @@ const skills = [
   {
     title: 'JavaScript',
     competency: 4,
-    category: ['Automation', 'Frontend', 'Languages', 'JavaScript'],
+    category: ['Automation', 'Frontend', 'Fullstack', 'Languages', 'JavaScript'],
   },
   {
     title: 'Node.JS',
     competency: 3,
-    category: ['Frontend', 'Backend', 'JavaScript'],
+    category: ['Frontend', 'Fullstack', 'Backend', 'JavaScript'],
   },
   {
     title: 'Swift',
     competency: 3,
-    category: ['Application Development', 'Mobile Development', 'Languages'],
+    category: ['Application Development', 'Mobile Development', 'Fullstack', 'Languages'],
   },
   {
     title: 'SwiftUI',
     competency: 3,
-    category: ['Application Development', 'Mobile Development', 'Languages'],
+    category: ['Application Development', 'Mobile Development', 'Fullstack', 'Languages'],
   },
   {
     title: 'React.js',
     competency: 3,
-    category: ['Frontend', 'JavaScript'],
+    category: ['Frontend', 'JavaScript', 'Fullstack'],
   },
   {
     title: 'Redux',
     competency: 3,
-    category: ['Frontend', 'JavaScript'],
+    category: ['Frontend', 'JavaScript', 'Fullstack'],
   },
   {
     title: 'Bootstrap',
     competency: 3,
-    category: ['Frontend', 'Fullstack'],
+    category: ['Frontend', 'Fullstack', 'Fullstack'],
   },
   {
     title: 'SoapUI',
@@ -45,7 +45,7 @@ const skills = [
   {
     title: 'REST API',
     competency: 3,
-    category: ['Frontend', 'Automation', 'QA', 'Application Development'],
+    category: ['Frontend', 'Automation', 'QA', 'Application Development', 'Fullstack'],
   },
   {
     title: 'Material UI',
@@ -70,32 +70,32 @@ const skills = [
   {
     title: 'Bash',
     competency: 4,
-    category: ['Automation', 'DevOps', 'Tools', 'Languages'],
+    category: ['Automation', 'DevOps', 'Tools', 'Languages', 'Fullstack'],
   },
   {
     title: 'Powershell',
     competency: 4,
-    category: ['Automation', 'DevOps', 'Tools', 'Languages'],
+    category: ['Automation', 'DevOps', 'Tools', 'Languages', 'Fullstack'],
   },
   {
     title: 'Heroku',
     competency: 2,
-    category: ['Frontend', 'Tools'],
+    category: ['Frontend', 'Tools', 'Fullstack'],
   },
   {
     title: 'Vercel',
     competency: 2,
-    category: ['Frontend', 'Tools'],
+    category: ['Frontend', 'Tools', 'Fullstack'],
   },
   {
     title: 'Netlify',
     competency: 2,
-    category: ['Frontend', 'Tools'],
+    category: ['Frontend', 'Tools', 'Fullstack'],
   },
   {
     title: 'MongoDB',
     competency: 3,
-    category: ['Frontend', 'Databases'],
+    category: ['Frontend', 'Databases', 'Fullstack'],
   },
   {
     title: 'PostgreSQL',
@@ -110,7 +110,7 @@ const skills = [
   {
     title: 'Express.JS',
     competency: 2,
-    category: ['Frontend', 'JavaScript'],
+    category: ['Frontend', 'JavaScript', 'Fullstack'],
   },
   {
     title: 'D3',
@@ -120,47 +120,47 @@ const skills = [
   {
     title: 'Git/Mercurial',
     competency: 3,
-    category: ['Application Development', 'Mobile Development', 'Automation', 'DevOps', 'Tools'],
+    category: ['Application Development', 'Mobile Development', 'Automation', 'DevOps', 'Tools', 'Fullstack'],
   },
   {
     title: 'Typescript',
     competency: 2,
-    category: ['Frontend', 'Languages', 'JavaScript'],
+    category: ['Frontend', 'Languages', 'JavaScript', 'Fullstack'],
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
     competency: 3,
-    category: ['Frontend', 'Languages'],
+    category: ['Frontend', 'Languages', 'Fullstack'],
   },
   {
     title: 'Java',
     competency: 5,
-    category: ['Automation', 'Application Development', 'Backend', 'Languages', 'Java'],
+    category: ['Automation', 'Application Development', 'Backend', 'Languages', 'Java', 'Fullstack'],
   },
   {
     title: 'Spring Boot',
     competency: 5,
-    category: ['Java'],
+    category: ['Java', 'Fullstack'],
   },
   {
     title: 'JUnit',
     competency: 5,
-    category: ['Java'],
+    category: ['Java', 'Fullstack'],
   },
   {
     title: 'TestNG',
     competency: 5,
-    category: ['Java'],
+    category: ['Java', 'Fullstack'],
   },
   {
     title: 'Selenium',
     competency: 5,
-    category: ['Java', 'Python'],
+    category: ['Java', 'Python', 'Fullstack'],
   },
   {
     title: 'lombok',
     competency: 5,
-    category: ['Java'],
+    category: ['Java', 'Fullstack'],
   },
   {
     title: 'lodash',
@@ -223,7 +223,7 @@ const skills = [
     category: ['Automation', 'DevOps', 'Fullstack'],
   },
   {
-    title: 'Docker',
+    title: 'Docker (Basic knowledge)',
     competency: 5,
     category: ['DevOps', 'Fullstack', 'Automation'],
   },
