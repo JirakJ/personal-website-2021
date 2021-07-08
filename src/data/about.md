@@ -21,3 +21,9 @@
 - Enabling a brighter future.
 - Doing better.
 - You not checking the commit history for earlier drafts of this file.
+
+# Frontend path paved by courses from these people
+
+1. Stephen Grinder
+2. Andrei Neagoie
+3. Maximilian Schwarzmüller
