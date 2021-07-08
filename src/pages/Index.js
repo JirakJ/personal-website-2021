@@ -20,8 +20,7 @@ const Index = () => (
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
+        <Link to="/projects">projects</Link>
         or <Link to="/contact">contact</Link> me.
       </p>
       <p> Source available <a href="https://github.com/JirakJ/personal-website-2021">here</a>.</p>
