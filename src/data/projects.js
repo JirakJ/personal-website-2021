@@ -7,7 +7,7 @@ const data = [
     date: '2021-07-20',
     desc: 'Purchasing workflow automation in a desktop application on a production environment.\n '
       + 'Automation of product price checking at external payment gateway suppliers.',
-    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'lombok', 'log4j', 'shell'],
+    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'shell'],
   },
   {
     title: 'Sberbank CZ',
