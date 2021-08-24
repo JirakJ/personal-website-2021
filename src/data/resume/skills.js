@@ -800,7 +800,7 @@ const skills = [
     link: 'https://www.udemy.com/certificate/UC-081d9c3d-955c-4943-bc23-da4ea9d76077/',
     university: 'Udemy',
     category: ['Frontend', 'Fullstack', 'JavaScript', 'Typescript'],
-  },,
+  },
   {
     title: 'Cucumber BDD with Python 3 Behave and Selenium WebDriver',
     number: 'Cucumber BDD with Python 3 Behave and Selenium WebDriver',
