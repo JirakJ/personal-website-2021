@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Avast Software s.r.o.',
+    subtitle: 'Developing of automation',
+    image: '/images/projects/avast-logo-inverse.svg',
+    date: '2021-07-20',
+    desc: 'Purchasing workflow automation in a desktop application on a production environment.\n '
+      + 'Automation of product price checking at external payment gateway suppliers.',
+    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'lombok', 'log4j', 'shell'],
+  },
+  {
     title: 'Sberbank CZ',
     subtitle: 'Developing of automation',
     image: '/images/projects/sberbank-logo.jpg',
