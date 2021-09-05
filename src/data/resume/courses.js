@@ -294,6 +294,13 @@ const courses = [
     category: ['Other'],
   },
   {
+    title: 'Full Stack Web Developer Bootcamp',
+    number: 'Credential ID UC-77574e7b-81f8-41a9-ba3c-67ef2ec9c5aa',
+    link: 'https://www.udemy.com/certificate/UC-77574e7b-81f8-41a9-ba3c-67ef2ec9c5aa/',
+    university: 'Udemy',
+    category: ['Frontend', 'Fullstack'],
+  },
+  {
     title: 'Modern Network Technologies',
     number: 'MMOS',
     link: 'https://www.vutbr.cz/studis/student.phtml?gm=gm_detail_predmetu&apid=171109',
