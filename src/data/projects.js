@@ -6,8 +6,9 @@ const data = [
     image: '/images/projects/avast-logo-inverse.svg',
     date: '2021-07-20',
     desc: 'Purchasing workflow automation in a desktop application on a production environment.\n '
-      + 'Automation of product price checking at external payment gateway suppliers.',
-    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'shell'],
+      + 'Automation of product price checking at external payment gateway suppliers. \n'
+      + 'Automation purchase process with Credit Card and PayPal',
+    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'shell', 'Beautiful Soup', 'PayPal'],
   },
   {
     title: 'Sberbank CZ',
