@@ -1,5 +1,26 @@
 const courses = [
   {
+    title: 'Write Pythonic Code Like a Seasoned Developer',
+    number: 'Write Pythonic Code Like a Seasoned Developer',
+    link: 'https://training.talkpython.fm/courses/details/write-pythonic-code-like-a-seasoned-developer',
+    university: 'TalkPython',
+    category: ['Automation', 'Frontend', 'BE', 'Fullstack', 'Other'],
+  },
+  {
+    title: 'Mastering PyCharm',
+    number: 'Mastering PyCharm',
+    link: 'https://training.talkpython.fm/courses/details/mastering-pycharm-ide-2017',
+    university: 'TalkPython',
+    category: ['Automation', 'Frontend', 'BE', 'Fullstack', 'Other'],
+  },
+  {
+    title: 'Effective PyCharm (2021 edition) Course',
+    number: 'Effective PyCharm (2021 edition) Course',
+    link: 'https://training.talkpython.fm/courses/explore_pycharm/mastering-pycharm-ide',
+    university: 'TalkPython',
+    category: ['Automation', 'Frontend', 'BE', 'Fullstack', 'Other'],
+  },
+  {
     title: 'Advanced Selenium testing framework with Java',
     number: 'UC-4952c307-4f04-4726-a563-0c59a4f9c405',
     link: 'https://www.udemy.com/certificate/UC-4952c307-4f04-4726-a563-0c59a4f9c405/',
