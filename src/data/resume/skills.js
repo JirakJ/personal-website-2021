@@ -8,6 +8,11 @@ const skills = [
     category: ['Automation', 'Frontend', 'Fullstack', 'Languages', 'JavaScript'],
   },
   {
+    title: 'Behave',
+    competency: 5,
+    category: ['Automation', 'Fullstack', 'Python'],
+  },
+  {
     title: 'Node.JS',
     competency: 3,
     category: ['Frontend', 'Fullstack', 'Backend', 'JavaScript'],
