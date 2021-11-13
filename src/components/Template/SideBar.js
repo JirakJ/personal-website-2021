@@ -15,6 +15,7 @@ const SideBar = () => (
         <header>
           <h2>Jakub Jirák</h2>
           <p><a href="mailto:jakub@jakubjirak.com">jakub@jakubjirak.com</a></p>
+          <p>Please make an appointment before calling.</p>
           <p><a href="tel:+420774946264">Phone: +420 774 946 264</a></p>
         </header>
       </div>
