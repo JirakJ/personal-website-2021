@@ -12,7 +12,7 @@ const data = [
       + 'Digital river refund and auto renewal disabler tool. \n'
       + 'Multiple APIs integration. \n'
       + 'Discount campaign checking tool',
-    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'shell', 'Beautiful Soup', 'PayPal', 'GitHub'],
+    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub'],
   },
   {
     title: 'Sberbank CZ',
