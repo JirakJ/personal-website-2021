@@ -10,7 +10,12 @@ const skills = [
   {
     title: 'Behave',
     competency: 5,
-    category: ['Automation', 'Fullstack', 'Python'],
+    category: ['Automation', 'Fullstack', 'Python', 'BDD'],
+  },
+  {
+    title: 'Gherkin',
+    competency: 5,
+    category: ['Automation', 'Fullstack', 'Python', 'BDD'],
   },
   {
     title: 'Node.JS',
