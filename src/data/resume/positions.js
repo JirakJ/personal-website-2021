@@ -10,7 +10,7 @@ const positions = [
       'Image and Video processing',
       'Developing of automation framework with management systems from scratch',
       'frameworks and API development',
-      'Projects: Avast Software s.r.o., SberbankCZ, JakubJirak.com, Remotedevs.eu, PragueSB.cz, Aither.cz, ZednictviHB.cz, Tom-Builder.cz, Hireme.cz ...',
+      'Projects: Avast Software s.r.o., SberbankCZ, JakubJirak.com, Remotedevs.eu, PragueSB.cz, ...',
     ],
   },
   {
