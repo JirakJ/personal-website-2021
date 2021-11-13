@@ -6,7 +6,7 @@
 - Computer games
 - Fine needle pens & classical pens
 - Paper notebooks for notes
-- Podcasts ([StandaShow](https://www.standashow.cz/), [Host Lucie Výborné](https://radiozurnal.rozhlas.cz/host-lucie-vyborne-5997483), [Prostor X](https://www.reflex.cz/kategorie/7220/prostor-x), [Fuckupy v IT](https://open.spotify.com/show/0hdAwDbzypIu4xNSZllLyL), [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk), [The Tim Ferris Show](https://tim.blog/podcast/), [The Smart Passive Income](https://www.smartpassiveincome.com/shows/spi/), and others)
+- Podcasts ([Host Lucie Výborné](https://radiozurnal.rozhlas.cz/host-lucie-vyborne-5997483), [Prostor X](https://www.reflex.cz/kategorie/7220/prostor-x), [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk), [The Tim Ferris Show](https://tim.blog/podcast/), [The Smart Passive Income](https://www.smartpassiveincome.com/shows/spi/), and others)
 - Twitch ([LanaLux](https://www.youtube.com/channel/UCwxmPMKj69q8cWWBH-xUQ1w))
 
 # Fun facts
@@ -19,7 +19,6 @@
 
 - Always finding inspiration.
 - Enabling a brighter future.
-- Doing better.
 - You not checking the commit history for earlier drafts of this file.
 
 # Frontend path paved by courses from these people
@@ -27,3 +26,6 @@
 1. Stephen Grinder
 2. Andrei Neagoie
 3. Maximilian Schwarzmüller
+
+# Python path paved by courses from
+- Michael Kennedy
