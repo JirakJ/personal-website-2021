@@ -12,7 +12,7 @@ const data = [
       + 'Digital river refund and auto renewal disabler tool. \n'
       + 'Multiple APIs integration. \n'
       + 'Discount campaign checking tool',
-    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'shell', 'Beautiful Soup', 'PayPal'],
+    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'shell', 'Beautiful Soup', 'PayPal', 'GitHub'],
   },
   {
     title: 'Sberbank CZ',
@@ -24,7 +24,7 @@ const data = [
         'Design and developing automation framework based on client requirements and needs (Fullstack, Automation testing, DevOps)\n'
         + '\n'
         + 'Developed from scratch. Custom orchestration system with full paralelization and scalability. Reporting system for management. Integration with JIRA (automated defects reports). Custom solution for testing SOAP WS.\n',
-    techstack: ['Java', 'Spring Boot', 'Rest Assured', 'TestNG', 'Selenium', 'lombok', 'log4j', 'MongoDB', 'React.js', 'Redux', 'Node.js', 'powershell'],
+    techstack: ['Java', 'Spring Boot', 'Rest Assured', 'TestNG', 'Selenium', 'lombok', 'log4j', 'MongoDB', 'React.js', 'Redux', 'Node.js', 'powershell', 'GitLab'],
   },
   {
     title: 'Prague School of Bioethics - praguesb.cz',
@@ -34,7 +34,7 @@ const data = [
     date: '2019-06-01',
     desc:
       'Website for conference.',
-    techstack: ['JavaScript', 'React.js', 'HTML5', 'CSS3'],
+    techstack: ['JavaScript', 'React.js', 'HTML5', 'CSS3', 'GitHub'],
   },
   {
     title: 'Aither',
@@ -47,7 +47,7 @@ const data = [
       'Preparing websites for journal of the Faculty of Arts of '
         + 'Palacký University in Olomouc and the Institute of Philosophy '
         + 'of the Academy of Sciences of the Czech Republic. In two language versions.',
-    techstack: ['JavaScript', 'PHP -> custom WordPress template', 'CSS3', 'HTML5'],
+    techstack: ['JavaScript', 'PHP -> custom WordPress template', 'CSS3', 'HTML5', 'GitHub'],
   },
   {
     title: 'Hireme.cz',
@@ -56,7 +56,7 @@ const data = [
     link: 'https://hireme.cz/',
     desc:
       'Old personal portfolio.',
-    techstack: ['React.js', 'JavaScript'],
+    techstack: ['React.js', 'JavaScript', 'GitHub'],
   },
   {
     title: 'Remotedevs.eu',
@@ -66,7 +66,7 @@ const data = [
     link: 'https://remotedevs.eu/',
     desc:
       'Team based project',
-    techstack: ['React.js', 'JavaScript'],
+    techstack: ['React.js', 'JavaScript', 'GitHub'],
   },
   {
     title: 'Caravella.cz',
