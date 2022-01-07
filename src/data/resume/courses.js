@@ -28,6 +28,13 @@ const courses = [
     category: ['Automation'],
   },
   {
+    title: 'Python for Finance: Investment Fundamentals & Data Analytics\n',
+    number: 'UC-7a8569c4-9b1b-4b4b-9b32-ffe6fa0db926',
+    link: 'https://www.udemy.com/certificate/UC-7a8569c4-9b1b-4b4b-9b32-ffe6fa0db926/',
+    university: 'Udemy',
+    category: ['Fullstack', 'Application Development', 'BE', 'Other'],
+  },
+  {
     title: 'Nuxt.js - Vue.js on Steroids',
     number: 'Credential ID UC-9eec60de-2cd7-450e-91b0-b434785c91db',
     link: 'https://www.udemy.com/certificate/UC-9eec60de-2cd7-450e-91b0-b434785c91db/',
