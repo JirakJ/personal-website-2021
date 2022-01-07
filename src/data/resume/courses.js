@@ -28,7 +28,7 @@ const courses = [
     category: ['Automation'],
   },
   {
-    title: 'Python for Finance: Investment Fundamentals & Data Analytics\n',
+    title: 'Python for Finance: Investment Fundamentals & Data Analytics',
     number: 'UC-7a8569c4-9b1b-4b4b-9b32-ffe6fa0db926',
     link: 'https://www.udemy.com/certificate/UC-7a8569c4-9b1b-4b4b-9b32-ffe6fa0db926/',
     university: 'Udemy',
