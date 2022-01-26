@@ -15,7 +15,7 @@ const courses = [
   },
   {
     title: 'Advanced REST APIs with Flask and Python',
-    number: 'Advanced REST APIs with Flask and Python',
+    number: 'UC-d10dfb2f-1b80-4c2c-a2a9-a06b489e8121',
     link: 'https://www.udemy.com/certificate/UC-d10dfb2f-1b80-4c2c-a2a9-a06b489e8121/',
     university: 'Udemy',
     category: ['Automation', 'Frontend', 'BE', 'Fullstack', 'Other'],

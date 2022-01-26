@@ -819,6 +819,20 @@ const skills = [
     category: ['Python', 'Behave', 'Selenium', 'Fullstack', 'Automation'],
   },
   {
+    title: 'Advanced REST APIs with Flask and Python',
+    number: 'UC-d10dfb2f-1b80-4c2c-a2a9-a06b489e8121',
+    link: 'https://www.udemy.com/certificate/UC-d10dfb2f-1b80-4c2c-a2a9-a06b489e8121/',
+    university: 'Udemy',
+    category: ['Automation', 'Frontend', 'BE', 'Fullstack', 'Other', 'Python', 'Flask'],
+  },
+  {
+    title: 'Python for Finance: Investment Fundamentals & Data Analytics\n',
+    number: 'UC-7a8569c4-9b1b-4b4b-9b32-ffe6fa0db926',
+    link: 'https://www.udemy.com/certificate/UC-7a8569c4-9b1b-4b4b-9b32-ffe6fa0db926/',
+    university: 'Udemy',
+    category: ['Fullstack', 'Application Development', 'BE', 'Other', 'Python', 'Pandas', 'Numpy', 'MatPlotLib'],
+  },
+  {
     title: 'JavaScript Variables Lifecycles',
     number: 'JavaScript Variables Lifecycles',
     link: 'https://www.udemy.com/certificate/UC-f01fb6aa-87a2-4a7b-8ca1-dffb266546df/',
