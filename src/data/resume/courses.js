@@ -14,6 +14,13 @@ const courses = [
     category: ['Automation', 'Frontend', 'BE', 'Fullstack', 'Other'],
   },
   {
+    title: 'Advanced REST APIs with Flask and Python',
+    number: 'Advanced REST APIs with Flask and Python',
+    link: 'https://www.udemy.com/certificate/UC-d10dfb2f-1b80-4c2c-a2a9-a06b489e8121/',
+    university: 'Udemy',
+    category: ['Automation', 'Frontend', 'BE', 'Fullstack', 'Other'],
+  },
+  {
     title: 'Effective PyCharm (2021 edition) Course',
     number: 'Effective PyCharm (2021 edition) Course',
     link: 'https://training.talkpython.fm/courses/explore_pycharm/mastering-pycharm-ide',
