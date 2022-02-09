@@ -11,7 +11,9 @@ const Cell = ({ data }) => (
         <time className="published">{dayjs(data.date).format('MMMM, YYYY')} - {data.dateTo ? dayjs(data.dateTo).format('MMMM, YYYY') : 'Present'}</time>
       </header>
       <div className="description-text">
-        <p>{data.desc}</p>
+        <ul>
+          { data.desc.length > 0 && data.desc.map((item) => <><li>{item}</li></>) }
+        </ul>
         { data.techstack.length > 0 && <Techstack data={data} /> }
       </div>
     </article>
