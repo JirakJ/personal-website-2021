@@ -6,12 +6,13 @@ const data = [
     image: '/images/projects/avast-logo-inverse.svg',
     date: '2021-07-20',
     desc: ['Designing of framework for automation tests for Purchasing workflow automation in a desktop application on a production environment.',
-      'Automation of product price checking at external payment gateway suppliers.',
       'Automation purchase process with Credit Card and PayPal.',
+      'Automation of product price checking at external payment gateway suppliers.',
       'Digital river email template updater tool.',
-      'Digital river refund and auto renewal disabler tool.',
+      'Digital river refund and auto renewal disabler tool (over AVAST/AVG API).',
       'Multiple APIs integration.',
-      'Discount campaign checking tool'],
+      'Discount campaign checking tool',
+      'Digital River refund tool.'],
     techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'Jira', 'Confluence', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub', 'Cypress'],
   },
   {
@@ -21,7 +22,7 @@ const data = [
     date: '2019-09-01',
     dateTo: '2021-05-31',
     desc:
-        ['Design and developing automation framework based on client requirements and needs (Fullstack, Automation testing, DevOps)', 'Developed from scratch. Custom orchestration system with full parallelization and scalability.', 'Reporting system for management. Integration with JIRA (automated defects reports). Custom solution for testing SOAP WS.'],
+        ['Design and developing automation framework based on client requirements and needs (Fullstack, Automation testing, DevOps)', 'Developed from scratch. Custom orchestration system with full parallelization and scalability.', 'Reporting system for management. Integration with JIRA (automated defects reports).', 'Custom solution for testing SOAP WS.'],
     techstack: ['Java', 'Spring Boot', 'Rest Assured', 'TestNG', 'Selenium', 'lombok', 'log4j', 'MongoDB', 'React.js', 'Redux', 'Node.js', 'powershell', 'GitLab', 'Jira', 'Confluence'],
   },
   {

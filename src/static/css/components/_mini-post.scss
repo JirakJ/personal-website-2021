@@ -37,6 +37,21 @@
     bottom: 0;
     border-top: solid 1px _palette(border);
 
+    ul {
+      margin: 1.25em;
+    }
+
+    li {
+      font-size: 0.9rem;
+      margin: 0;
+      background-color: rgba(255,255,255,.7);
+      color: #3c3b3b;
+      font-family: "Raleway", Helvetica, sans-serif;
+      z-index: 1000;
+      transition: all 0.1s;
+      -webkit-transition: all 0.1s ease-in-out;
+    }
+
     p {
       font-size: 0.9rem;
       margin: 0;
@@ -53,7 +68,7 @@
       background-color: rgba(255,255,255,.9);
     }
   }
-  
+
   @media (max-width: 480px) {
     .description {
       position: inherit;
