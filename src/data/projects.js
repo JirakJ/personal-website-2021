@@ -12,7 +12,7 @@ const data = [
       + 'Digital river refund and auto renewal disabler tool. \n'
       + 'Multiple APIs integration. \n'
       + 'Discount campaign checking tool',
-    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub'],
+    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'Jira', 'Confluence', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub', 'Cypress'],
   },
   {
     title: 'Sberbank CZ',
@@ -24,7 +24,7 @@ const data = [
         'Design and developing automation framework based on client requirements and needs (Fullstack, Automation testing, DevOps)\n'
         + '\n'
         + 'Developed from scratch. Custom orchestration system with full paralelization and scalability. Reporting system for management. Integration with JIRA (automated defects reports). Custom solution for testing SOAP WS.\n',
-    techstack: ['Java', 'Spring Boot', 'Rest Assured', 'TestNG', 'Selenium', 'lombok', 'log4j', 'MongoDB', 'React.js', 'Redux', 'Node.js', 'powershell', 'GitLab'],
+    techstack: ['Java', 'Spring Boot', 'Rest Assured', 'TestNG', 'Selenium', 'lombok', 'log4j', 'MongoDB', 'React.js', 'Redux', 'Node.js', 'powershell', 'GitLab', 'Jira', 'Confluence'],
   },
   {
     title: 'Prague School of Bioethics - praguesb.cz',
