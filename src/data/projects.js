@@ -5,13 +5,13 @@ const data = [
     subtitle: 'Developing of automation',
     image: '/images/projects/avast-logo-inverse.svg',
     date: '2021-07-20',
-    desc: 'Designing of framework for automation tests for Purchasing workflow automation in a desktop application on a production environment.\n '
-      + 'Automation of product price checking at external payment gateway suppliers. \n'
-      + 'Automation purchase process with Credit Card and PayPal. \n'
-      + 'Digital river email template updater tool. \n'
-      + 'Digital river refund and auto renewal disabler tool. \n'
-      + 'Multiple APIs integration. \n'
-      + 'Discount campaign checking tool',
+    desc: ['Designing of framework for automation tests for Purchasing workflow automation in a desktop application on a production environment.',
+      'Automation of product price checking at external payment gateway suppliers.',
+      'Automation purchase process with Credit Card and PayPal.',
+      'Digital river email template updater tool.',
+      'Digital river refund and auto renewal disabler tool.',
+      'Multiple APIs integration.',
+      'Discount campaign checking tool'],
     techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'Jira', 'Confluence', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub', 'Cypress'],
   },
   {
@@ -21,9 +21,7 @@ const data = [
     date: '2019-09-01',
     dateTo: '2021-05-31',
     desc:
-        'Design and developing automation framework based on client requirements and needs (Fullstack, Automation testing, DevOps)\n'
-        + '\n'
-        + 'Developed from scratch. Custom orchestration system with full paralelization and scalability. Reporting system for management. Integration with JIRA (automated defects reports). Custom solution for testing SOAP WS.\n',
+        ['Design and developing automation framework based on client requirements and needs (Fullstack, Automation testing, DevOps)', 'Developed from scratch. Custom orchestration system with full parallelization and scalability.', 'Reporting system for management. Integration with JIRA (automated defects reports). Custom solution for testing SOAP WS.'],
     techstack: ['Java', 'Spring Boot', 'Rest Assured', 'TestNG', 'Selenium', 'lombok', 'log4j', 'MongoDB', 'React.js', 'Redux', 'Node.js', 'powershell', 'GitLab', 'Jira', 'Confluence'],
   },
   {
@@ -33,7 +31,7 @@ const data = [
     image: '/images/projects/praguesb.cz.png',
     date: '2019-06-01',
     desc:
-      'Website for conference.',
+      ['Website for conference.'],
     techstack: ['JavaScript', 'React.js', 'HTML5', 'CSS3', 'GitHub'],
   },
   {
@@ -44,9 +42,9 @@ const data = [
     date: '2017-08-01',
     dateTo: '2021-08-31',
     desc:
-      'Preparing websites for journal of the Faculty of Arts of '
+      ['Preparing websites for journal of the Faculty of Arts of '
         + 'Palacký University in Olomouc and the Institute of Philosophy '
-        + 'of the Academy of Sciences of the Czech Republic. In two language versions.',
+        + 'of the Academy of Sciences of the Czech Republic. In two language versions.'],
     techstack: ['JavaScript', 'PHP -> custom WordPress template', 'CSS3', 'HTML5', 'GitHub'],
   },
   {
@@ -55,7 +53,7 @@ const data = [
     date: '2016-08-01',
     link: 'https://hireme.cz/',
     desc:
-      'Old personal portfolio.',
+      ['Old personal portfolio.'],
     techstack: ['React.js', 'JavaScript', 'GitHub'],
   },
   {
@@ -65,7 +63,7 @@ const data = [
     date: '2020-08-27',
     link: 'https://remotedevs.eu/',
     desc:
-      'Team based project',
+      ['Team based project'],
     techstack: ['React.js', 'JavaScript', 'GitHub'],
   },
   {
@@ -74,7 +72,7 @@ const data = [
     date: '2016-06-01',
     dateTo: '2021-05-31',
     desc:
-      'Website maintenance and updating based on customer needs.',
+      ['Website maintenance and updating based on customer needs.'],
     techstack: [],
   },
   {
@@ -85,7 +83,7 @@ const data = [
     dateTo: '2021-05-31',
     link: 'http://zednictvihb.cz/',
     desc:
-      'Full website development with preparing graphics.',
+      ['Full website development with preparing graphics.'],
     techstack: [],
   },
 ];
