@@ -20,7 +20,7 @@
 
 - Always finding inspiration.
 - Enabling a brighter future.
-- You not checking the commit history for earlier drafts of this file.
+- You're not checking the commit history for earlier drafts of this file.
 
 # Frontend path paved by courses from these people
 
