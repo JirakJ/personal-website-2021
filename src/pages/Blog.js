@@ -15,7 +15,6 @@ const renderBlogs = () => {
   }, []);
 
   if (data.items) {
-    console.debug(data)
     return <article className="post" id="blog">
       <header>
         <div className="title">
