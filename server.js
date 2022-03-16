@@ -2,6 +2,7 @@ const express = require('express');
 const favicon = require('express-favicon');
 var secure = require('express-force-https');
 var sslRedirect = require('heroku-ssl-redirect');
+var cors = require('cors');
 const path = require('path');
 const port = process.env.PORT || 8080;
 const dev = process.env.NODE_ENV !== 'production';
@@ -13,6 +14,9 @@ app.use(express.static(__dirname));
 app.use(express.static(path.join(__dirname, 'build')));
 
 app.use(secure);
+app.options("*", cors({ origin: 'https://www.jakubjirak.com', optionsSuccessStatus: 200 }));
+
+app.use(cors({ origin: "https://www.jakubjirak.com", optionsSuccessStatus: 200 }));
 app.use(sslRedirect());
 
 app.get('*', function(req, res, next) {
