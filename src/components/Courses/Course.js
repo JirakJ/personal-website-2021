@@ -20,18 +20,18 @@ const Course = ({ data }) => (
       <article className="mini-post">
         <header>
           <h3>{data.title}</h3>
-          <time className="published">{data.content_info}</time>
+          <time className="published">{data.content_info} <div className="text">Discount code: {data.discount.code}</div></time>
         </header>
         {matcher(data.image_480x270) && <div className="description-text">
           <img src={data.image_480x270} alt={data.title}/>
+          { data.headline && <p>{data.headline}</p> }
         </div>}
-        { data.headline && <p>{data.headline}</p> }
         <br/>
         <button
           className={`skillbutton 'skillbutton-active'`}
           type="button"
         >
-          Buy course...
+          Go to course...
         </button>
       </article>
     </a>

@@ -14,7 +14,7 @@ app.use(express.static(__dirname));
 app.use(express.static(path.join(__dirname, 'build')));
 
 app.use(secure);
-app.options("*", cors({ origin: 'https://www.jakubjirak.com', optionsSuccessStatus: 200 }));
+app.options("*", cors({ origin: ['https://www.jakubjirak.com','http://localhost:3000','https://www.udemy.com'], optionsSuccessStatus: 200 }));
 
 app.use(cors({ origin: "https://www.jakubjirak.com", optionsSuccessStatus: 200 }));
 app.use(sslRedirect());
