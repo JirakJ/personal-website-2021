@@ -48,7 +48,6 @@ Course.propTypes = {
     headline: PropTypes.string.isRequired,
     avg_rating: PropTypes.number.isRequired,
     rating: PropTypes.number.isRequired,
-    code: PropTypes.string.isRequired,
     num_reviews: PropTypes.number.isRequired,
     num_published_lectures: PropTypes.number.isRequired,
     instructional_level_simple: PropTypes.number.isRequired,
