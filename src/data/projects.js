@@ -12,7 +12,9 @@ const data = [
       'Digital river refund and auto renewal disabler tool (over AVAST/AVG API).',
       'Multiple APIs integration.',
       'Discount campaign checking tool',
-      'Digital River refund tool.'],
+      'Digital River refund tool.',
+      'Softline checkout automation on production environment',
+      'Softline refund tool'],
     techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'Jira', 'Confluence', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub', 'Cypress'],
   },
   {
