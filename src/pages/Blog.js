@@ -15,7 +15,7 @@ const renderBlogs = () => {
   }, []);
 
   if (data.items) {
-    return <article className="post" id="blog">
+    return <article className="blog-post" id="blog">
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/blog">Blog</Link></h2>
