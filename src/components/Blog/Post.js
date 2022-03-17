@@ -24,7 +24,7 @@ const Post = ({ data }) => (
             .format('MMMM, YYYY')}</time>
         </header>
         {matcher(data.thumbnail) && <div className="description-text">
-          <img src={data.thumbnail} alt={data.title}/>
+          <img src={data.thumbnail} width="480px" alt={data.title}/>
         </div>}
         <br/>
         <button
