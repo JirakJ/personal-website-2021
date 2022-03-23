@@ -5,7 +5,7 @@ import Techstack from './Techstack';
 
 const Cell = ({ data }) => (
   <div className="cell-container">
-    <article className="post">
+    <article className="mini-post">
       <header>
         <h3><a href={data.link}>{data.title}</a></h3>
         <time className="published">{dayjs(data.date).format('MMMM, YYYY')} - {data.dateTo ? dayjs(data.dateTo).format('MMMM, YYYY') : 'Present'}</time>
