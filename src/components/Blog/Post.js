@@ -15,7 +15,7 @@ const matcher = (string) => {
 };
 
 const Post = ({ data }) => (
-  <div className="cell-container">
+  <div className="blog-mini-post">
     <a href={data.link}>
       <article className="mini-post">
         <header>

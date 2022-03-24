@@ -15,7 +15,7 @@ const matcher = (string) => {
 };
 
 const Course = ({ data }) => (
-  <div className="cell-container">
+  <div className="blog-mini-post">
     <a href={`https://udemy.com${data.url}`}>
       <article className="mini-post">
         <header>
