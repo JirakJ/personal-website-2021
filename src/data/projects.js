@@ -15,7 +15,7 @@ const data = [
       'Digital River refund tool.',
       'Softline checkout automation on production environment',
       'Softline refund tool'],
-    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'Jira', 'Confluence', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub', 'Cypress'],
+    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'Jira', 'Confluence', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub', 'Cypress', 'Kotlin'],
   },
   {
     title: 'Sberbank CZ',
