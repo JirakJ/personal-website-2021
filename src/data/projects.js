@@ -13,9 +13,11 @@ const data = [
       'Multiple APIs integration.',
       'Discount campaign checking tool',
       'Digital River refund tool.',
-      'Softline checkout automation on production environment',
-      'Softline refund tool'],
-    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'Team City API', 'Jira', 'Confluence', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub', 'Cypress', 'Kotlin', 'DevOps'],
+      'Softline checkout automation on production environment.',
+      'Softline refund tool.',
+      'DevOps - full TeamCity deployment.'
+    ],
+    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'Team City API', 'Jira', 'Confluence', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub', 'Cypress', 'Kotlin'],
   },
   {
     title: 'Sberbank CZ',
@@ -25,7 +27,7 @@ const data = [
     dateTo: '2021-05-31',
     desc:
         ['Design and developing automation framework based on client requirements and needs (Fullstack, Automation testing, DevOps)', 'Developed from scratch. Custom orchestration system with full parallelization and scalability.', 'Reporting system for management. Integration with JIRA (automated defects reports).', 'Custom solution for testing SOAP WS.'],
-    techstack: ['Java', 'Spring Boot', 'Rest Assured', 'TestNG', 'Selenium', 'lombok', 'log4j', 'MongoDB', 'React.js', 'Redux', 'Node.js', 'powershell', 'GitLab', 'Jira', 'Jira API', 'Confluence', 'Confluence API'],
+    techstack: ['Java', 'Spring Boot', 'Rest Assured', 'TestNG', 'Selenium', 'lombok', 'log4j', 'MongoDB', 'React.js', 'Redux', 'Node.js', 'powershell', 'GitLab', 'Jira', 'Jira API', 'Confluence', 'Confluence API', 'DevOps'],
   },
   {
     title: 'Prague School of Bioethics - praguesb.cz',
