@@ -9,7 +9,7 @@ const renderBlogs = () => {
 
   useEffect(async () => {
     const result = await axios(
-      'https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@jakubjirak',
+      'https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@skilledthree',
     );
     setData(result.data);
   }, []);
@@ -19,7 +19,7 @@ const renderBlogs = () => {
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/blog">Blog</Link></h2>
-          <p>Ing. Jakub Jirák - Medium feed</p>
+          <p>Skilled Three - Medium feed</p>
         </div>
       </header>
           {data.items.map((post) => (
@@ -34,7 +34,7 @@ const renderBlogs = () => {
 
 const Blog = () => (<Main
   title="Blog"
-  description="Ing. Jakub Jirák - Medium feed"
+  description="Skilled Three - Medium feed"
 >
   {renderBlogs()}
 </Main>);

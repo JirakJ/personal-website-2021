@@ -23,7 +23,7 @@ const renderCourses = () => {
 
 const Courses = () => (<Main
   title="Blog"
-  description="Ing. Jakub Jirák - Medium feed"
+  description="Skilled Three - Medium feed"
 >
   {renderCourses()}
 </Main>);

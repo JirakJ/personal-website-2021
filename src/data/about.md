@@ -6,7 +6,7 @@ Freelance Full Stack Software Engineer who helps QA to automate their processes 
 - Computer hardware
 - PS Exclusive games - mainly Uncharted
 - Computer games
-- Blogging - you can check my [blog](https://jakubjirak.medium.com)
+- Blogging - you can check my [blog](https://skilledthree.medium.com)
 - Books about personal development 
 - Fine needle pens & classical fountain pens
 - Paper notebooks for notes
