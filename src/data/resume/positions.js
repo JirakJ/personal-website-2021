@@ -1,16 +1,19 @@
 const positions = [
   {
     company: 'Ing. Jakub Jirák',
-    position: 'Freelance Software Engineer',
+    position: 'Freelance Senior Software Engineer',
     link: 'https://jakubjirak.com',
     daterange: 'August 2017 - Present',
     points: [
+      'Automation specialist',
       'Fullstack development',
-      'Application development (JAVA, Python, Swift/ SwiftUI, C++...)',
+      'Application development (Python, JAVA, Swift/ SwiftUI, C++...)',
       'Image and Video processing',
       'Developing of automation framework with management systems from scratch',
       'frameworks and API development',
-      'Projects: Avast Software s.r.o., SberbankCZ, JakubJirak.com, Remotedevs.eu, PragueSB.cz, ...',
+      'Instructor, Lecturer',
+      'content creator on Medium.com',
+      'Projects: Gen Digital Inc., Avast Software s.r.o., SberbankCZ, JakubJirak.com, PragueSB.cz, ...',
     ],
   },
   {
