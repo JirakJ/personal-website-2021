@@ -38,7 +38,11 @@ const Blog = () => (<Main
   title="Blog"
   description="Jakub Jirák - Medium feed"
 >
-  <BlogStuff /> at <EmailLink />.
+  <div
+      className="inline-container"
+  >
+    <BlogStuff /> at <EmailLink />.
+  </div>
   {renderBlogs()}
 </Main>);
 

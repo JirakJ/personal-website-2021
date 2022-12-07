@@ -60,17 +60,7 @@ const EmailLink = () => {
   }, isActive ? delay : null);
 
   return (
-    <div
-      className="inline-container"
-      style={validateText(message) ? {} : { color: 'red' }}
-      onMouseEnter={() => setIsActive(false)}
-      onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
-    >
-      <a href={validateText(message) ? `mailto:${message}@jakubjirak.com` : ''}>
-        <span>{message}</span>
-        <span>@jakubjirak.com</span>
-      </a>
-    </div>
+      <>{message}</>
   );
 };
 
