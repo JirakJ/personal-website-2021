@@ -10,12 +10,12 @@ const SideBar = () => (
     <section id="intro">
       <div id="aligned-div">
         <Link to="/" className="logo">
-          <img src={`${PUBLIC_URL}/images/ing-jakub-jirak.png`} alt="" />
+          <img src={`${PUBLIC_URL}/images/ing-jakub-jirak.jpg`} alt="Ing. Jakub Jirák" />
         </Link>
         <header>
           <h2>Jakub Jirák</h2>
           <p><a href="mailto:jakub@jakubjirak.com">jakub@jakubjirak.com</a></p>
-          <p>Please make an appointment before calling.</p>
+          <p><b>Please make an appointment before calling.</b></p>
           <p><a href="tel:+420774946264">Phone: +420 774 946 264</a></p>
         </header>
       </div>
