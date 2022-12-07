@@ -3,6 +3,8 @@ import Main from '../layouts/Main';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
 import Post from '../components/Blog/Post';
+import EmailLink from "../components/Contact/EmailLink";
+import BlogStuff from "../components/Blog/BlogStuff";
 
 const renderBlogs = () => {
   const [data, setData] = useState({ blogs: [] });
@@ -19,7 +21,7 @@ const renderBlogs = () => {
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/blog">Blog</Link></h2>
-          <p>Skilled Three - Medium feed</p>
+          <p>Jakub Jirák - Medium feed</p>
         </div>
       </header>
           {data.items.map((post) => (
@@ -34,8 +36,9 @@ const renderBlogs = () => {
 
 const Blog = () => (<Main
   title="Blog"
-  description="Skilled Three - Medium feed"
+  description="Jakub Jirák - Medium feed"
 >
+  <BlogStuff /> at <EmailLink />.
   {renderBlogs()}
 </Main>);
 
