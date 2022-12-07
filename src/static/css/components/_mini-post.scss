@@ -81,8 +81,7 @@
 .blog-mini-post {
   position: relative;
   width: 482px;
-  display: flex;
-  flex-flow: row wrap;
+  display: inline-block;
   margin-right: 20px;
 
   .description {
@@ -161,8 +160,6 @@
   background: _palette(bg);
   border: solid 1px _palette(border);
   margin: 0 0 _size(element-margin);
-  flex: 0 0 33.333%;
-  padding: 10px; /* gutter width */
 
   .image {
     overflow: hidden;
