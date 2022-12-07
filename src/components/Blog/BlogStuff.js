@@ -34,7 +34,7 @@ const useInterval = (callback, delay) => {
   }, [delay]);
 };
 
-const EmailLink = () => {
+const BlogStuff = () => {
   const hold = 50; // ticks to wait after message is complete before rendering next message
   const delay = 50; // tick length in mS
 
@@ -64,4 +64,4 @@ const EmailLink = () => {
   );
 };
 
-export default EmailLink;
+export default BlogStuff;
