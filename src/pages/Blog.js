@@ -5,6 +5,12 @@ import { Link } from 'react-router-dom';
 import Post from '../components/Blog/Post';
 import BlogStuff from "../components/Blog/BlogStuff";
 import BlogEmailLink from "../components/Blog/BlogEmailLink";
+import Analytics from "../components/Template/Analytics";
+import ScrollToTop from "../components/Template/ScrollToTop";
+import {Helmet, HelmetProvider} from "react-helmet-async";
+import Navigation from "../components/Template/Navigation";
+import SideBar from "../components/Template/SideBar";
+import PropTypes from "prop-types";
 
 const renderBlogs = () => {
   const [data, setData] = useState({ blogs: [] });
@@ -34,21 +40,32 @@ const renderBlogs = () => {
   }
 };
 
-const Blog = () => (<Main
-  title="Blog"
-  description={"Jakub Jirák - Medium feed"}
->
-  <article className="post" id="contact">
-    <header>
-      <div
-          className="inline-container"
-      >
-        <BlogStuff /> at <BlogEmailLink />.
+const Blog = () => (
+  <HelmetProvider>
+    <Analytics />
+    <ScrollToTop />
+    <Helmet titleTemplate="%s | Jakub Jirák" defaultTitle="Jakub Jirák">
+      <title>Blog</title>
+      <meta name="description" content="Jakub Jirák - Medium feed" />
+      <BlogStuff /> at <BlogEmailLink />.
+    </Helmet>
+    <div id="wrapper">
+      <Navigation />
+      <div id="main">
+        {renderBlogs()}
       </div>
-    </header>
-  </article>
-  {renderBlogs()}
-</Main>);
+      {props.fullPage ? null : <SideBar />}
+    </div>
+  </HelmetProvider>
+  );
+
+Blog.propTypes = {
+  fullPage: PropTypes.bool,
+};
+
+Blog.defaultProps = {
+  fullPage: false,
+};
 
 export default Blog;
 
