@@ -3,8 +3,8 @@ import Main from '../layouts/Main';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
 import Post from '../components/Blog/Post';
-import EmailLink from "../components/Contact/EmailLink";
 import BlogStuff from "../components/Blog/BlogStuff";
+import BlogEmailLink from "../components/Blog/BlogEmailLink";
 
 const renderBlogs = () => {
   const [data, setData] = useState({ blogs: [] });
@@ -41,7 +41,7 @@ const Blog = () => (<Main
   <div
       className="inline-container"
   >
-    <BlogStuff /> at <EmailLink />.
+    <BlogStuff /> at <BlogEmailLink />.
   </div>
   {renderBlogs()}
 </Main>);
