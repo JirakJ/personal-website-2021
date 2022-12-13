@@ -28,6 +28,7 @@ const renderBlogs = () => {
         <div className="title">
           <h2 data-testid="heading"><Link to="/blog">Blog</Link></h2>
           <p>Jakub Jirák - Medium feed</p>
+          <h3><BlogStuff/> at <BlogEmailLink/>.</h3>
         </div>
       </header>
           {data.items.map((post) => (
@@ -41,22 +42,12 @@ const renderBlogs = () => {
 };
 
 const Blog = () => (
-  <HelmetProvider>
-    <Analytics />
-    <ScrollToTop />
-    <Helmet titleTemplate="%s | Jakub Jirák" defaultTitle="Jakub Jirák">
-      <title>Blog</title>
-      <meta name="description" content="Jakub Jirák - Medium feed" />
-      <BlogStuff /> at <BlogEmailLink />.
-    </Helmet>
-    <div id="wrapper">
-      <Navigation />
-      <div id="main">
+  <Main
+    title="Blog"
+    description={BlogStuff+" at "+ BlogEmailLink+"."}
+  >
         {renderBlogs()}
-      </div>
-      {props.fullPage ? null : <SideBar />}
-    </div>
-  </HelmetProvider>
+  </Main>
   );
 
 Blog.propTypes = {
