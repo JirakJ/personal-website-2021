@@ -1,4 +1,4 @@
-Freelance Full Stack Software Engineer who helps QA to automate their processes effectively. I'm reducing the operation costs of my clients by automating repetitive manual tasks and finding ways to achieve effective workflows with the help of internal APIs or developing custom ones. Are you interested in my services? Let me know at `jakub@jakubjirak.com`.
+Freelance Senior Software Engineer who helps QA to automate their processes effectively. I'm reducing the operation costs of my clients by automating repetitive manual tasks and finding ways to achieve effective workflows with the help of internal APIs or developing custom ones. Are you interested in my services? Let me know at `jakub@jakubjirak.com`.
 
 # I like
 
