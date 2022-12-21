@@ -29,6 +29,7 @@ const renderBlogs = () => {
           <h2 data-testid="heading"><Link to="/blog">Blog</Link></h2>
           <p>Jakub Jirák - Medium feed</p>
           <h3><BlogStuff/> at <BlogEmailLink/>.</h3>
+          <p>I reserve the right to write only about what I myself see fit, I apologise in advance to anyone concerned about refusing to review or collaborate, but I only write about things I believe in/would use myself. I see it as my social responsibility not to offer or influence people with products/software that I don't trust myself.</p>
         </div>
       </header>
           {data.items.map((post) => (
