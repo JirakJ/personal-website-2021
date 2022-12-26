@@ -70,27 +70,7 @@ const data = [
     desc:
       ['Team based project'],
     techstack: ['React.js', 'JavaScript', 'GitHub'],
-  },
-  {
-    title: 'Caravella.cz',
-    subtitle: 'Website management',
-    date: '2016-06-01',
-    dateTo: '2021-05-31',
-    desc:
-      ['Website maintenance and updating based on customer needs.'],
-    techstack: [],
-  },
-  {
-    title: 'Zednictvihb.cz',
-    subtitle: 'Fullstack development',
-    image: '/images/projects/zednictvihb.cz.png',
-    date: '2014-01-01',
-    dateTo: '2021-05-31',
-    link: 'http://zednictvihb.cz/',
-    desc:
-      ['Full website development with preparing graphics.'],
-    techstack: [],
-  },
+  }
 ];
 
 export default data;
