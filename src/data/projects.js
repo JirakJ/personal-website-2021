@@ -70,7 +70,7 @@ const data = [
     desc:
       ['Team based project'],
     techstack: ['React.js', 'JavaScript', 'GitHub'],
-  }
+  },
 ];
 
 export default data;
