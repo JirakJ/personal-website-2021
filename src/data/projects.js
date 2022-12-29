@@ -8,16 +8,15 @@ const data = [
     desc: ['Designing of framework for automation tests for Purchasing workflow automation in a desktop application on a production environment.',
       'Automation purchase process with Credit Card and PayPal.',
       'Automation of product price checking at external payment gateway suppliers.',
-      'Digital river email template updater tool.',
       'Digital river refund and auto renewal disabler tool (over AVAST/AVG API).',
       'Multiple APIs integration.',
       'Discount campaign checking tool',
-      'Digital River refund tool.',
+      'Digital River tools - refund tool, email resender, template updater.',
       'Softline checkout automation on production environment.',
       'Softline refund tool.',
-      'DevOps - full TeamCity deployment.'
+      'DevOps'
     ],
-    techstack: ['Python', 'Behave', 'Selenium', 'docker', 'Team City', 'Team City API', 'Jira', 'Confluence', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub', 'Cypress', 'Kotlin'],
+    techstack: ['Python', 'JavaScript', 'Behave', 'Selenium', 'docker', 'Team City', 'Team City API', 'Jira', 'Confluence', 'shell', 'Beautiful Soup', 'PayPal', 'BDD', 'Gherkin', 'GitHub', 'Cypress', 'Kotlin', 'DevOps', 'VMware vSphere', 'pandas', 'numpy', 'opencv'],
   },
   {
     title: 'Sberbank CZ',
