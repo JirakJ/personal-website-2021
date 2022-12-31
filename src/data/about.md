@@ -11,8 +11,8 @@ Freelance Senior Software Engineer who helps QA to automate their processes effe
 - Fine needle pens & classical fountain pens
 - Paper notebooks for notes
 - Podcasts ([Host Lucie Výborné](https://radiozurnal.rozhlas.cz/host-lucie-vyborne-5997483), [Prostor X](https://www.reflex.cz/kategorie/7220/prostor-x), [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk), [The Tim Ferris Show](https://tim.blog/podcast/), [The Smart Passive Income](https://www.smartpassiveincome.com/shows/spi/), and others)
-- Twitch ([LanaLux](https://www.twitch.tv/lana_lux),[CzechCloud](https://www.twitch.tv/czechcloud))
-- YouTube ([Mark Ellis Reviews](https://www.youtube.com/channel/UCwwuSBYcErVlOpveYubHv4g))
+- Twitch ([LanaLux](https://www.twitch.tv/lana_lux), [CzechCloud](https://www.twitch.tv/czechcloud))
+- YouTube ([Alex Ziskind](https://www.youtube.com/c/alexanderziskind), [Mark Ellis Reviews](https://www.youtube.com/channel/UCwwuSBYcErVlOpveYubHv4g))
 
 # Fun facts
 
@@ -26,11 +26,13 @@ Freelance Senior Software Engineer who helps QA to automate their processes effe
 - Enabling a brighter future.
 - You're not checking the commit history for earlier drafts of this file.
 
-# Frontend path paved by courses from these people
+# Software Engineer path paved by courses from these people
 
 1. [Stephen Grinder](https://www.udemy.com/user/sgslo/)
 2. [Andrei Neagoie](https://www.udemy.com/user/andrei-neagoie/)
 3. [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
+4. [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)
+5. [Tim Buchalka](https://www.udemy.com/user/timbuchalka/)
 
 # Python path paved by courses from
 - [Michael Kennedy](https://talkpython.fm/)
