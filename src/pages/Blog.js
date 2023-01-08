@@ -5,11 +5,6 @@ import { Link } from 'react-router-dom';
 import Post from '../components/Blog/Post';
 import BlogStuff from "../components/Blog/BlogStuff";
 import BlogEmailLink from "../components/Blog/BlogEmailLink";
-import Analytics from "../components/Template/Analytics";
-import ScrollToTop from "../components/Template/ScrollToTop";
-import {Helmet, HelmetProvider} from "react-helmet-async";
-import Navigation from "../components/Template/Navigation";
-import SideBar from "../components/Template/SideBar";
 import PropTypes from "prop-types";
 
 const renderBlogs = () => {

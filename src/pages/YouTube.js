@@ -12,6 +12,7 @@ const renderVideos = () => {
     const result = await axios(
       'https://api.rss2json.com/v1/api.json?rss_url=https://www.youtube.com/feeds/videos.xml?channel_id=UC0osYUKB5oePEdYRsamlhSw',
     );
+    console.log(result.data)
     setData(result.data);
   }, []);
 
@@ -26,7 +27,7 @@ const renderVideos = () => {
           {data.items.map((video) => (
             <Post
               data={video}
-              key={`${post.guid}`}
+              key={`${video.guid}`}
             />
           ))}
     </article>
